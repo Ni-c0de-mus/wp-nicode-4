@@ -2,7 +2,7 @@
 
 
 
-<h1>This is the index</h1>
+<h1>This is the Single Page</h1>
 
 
 
